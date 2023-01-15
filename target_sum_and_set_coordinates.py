@@ -1,4 +1,4 @@
-# for wholes numbers array, square the array and display sum, lowest, highest and coordinates that give target sum 6
+# for whole numbers array, square the array and display sum, lowest, highest and coordinates that give target sum 6
 
 # display sum, min and max
 def number_calculator(num):
