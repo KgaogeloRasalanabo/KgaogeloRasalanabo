@@ -10,7 +10,7 @@ No experience
 __________________________________________________________
 EDUCATION
 --------------------------
-UNISA final year
+UNISA 2023
 
 BSc Statistics and Physics
 ***************************
