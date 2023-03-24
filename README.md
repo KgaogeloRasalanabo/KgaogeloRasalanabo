@@ -5,7 +5,7 @@ Self Taught Python Developer aspiring to be a Data Scientist
 __________________________________________________________
 RELATED WORK EXPERIENCE 
 -------------------------
-No experience 
+Non professional
 
 __________________________________________________________
 EDUCATION
