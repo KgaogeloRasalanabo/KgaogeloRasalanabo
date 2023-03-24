@@ -1,6 +1,6 @@
 PORTFOLIO
 -------------------------
-Beginner Python Developer aspiring to be a Data Scientist
+Self Taught Python Developer aspiring to be a Data Scientist
 
 __________________________________________________________
 RELATED WORK EXPERIENCE 
